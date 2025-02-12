@@ -127,5 +127,8 @@ except Exception as e:
 
 ```
 
-It revealed the flag: dscctf{y0u_4r3_4_sm4rt_arent_you}
+It revealed the flag: 
+```
+dscctf{y0u_4r3_4_sm4rt_arent_you}
+```
 
